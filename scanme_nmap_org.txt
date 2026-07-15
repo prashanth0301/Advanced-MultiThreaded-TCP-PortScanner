@@ -1,0 +1,18 @@
+============================================================
+ADVANCED MULTITHREADED PORT SCANNER
+============================================================
+Target      : scanme.nmap.org
+Scan Time   : 1.08 seconds
+Open Ports  : 9
+
+PORT      STATUS    SERVICE
+------------------------------------------------------------
+22        OPEN      SSH
+25        OPEN      SMTP
+80        OPEN      HTTP
+110       OPEN      POP3
+143       OPEN      IMAP
+465       OPEN      SMTPS
+587       OPEN      SMTP Submission
+993       OPEN      IMAPS
+995       OPEN      POP3S

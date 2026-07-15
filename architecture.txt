@@ -1,0 +1,47 @@
+                    USER
+
+                      │
+
+                      ▼
+
+             Target Validation
+
+                      │
+
+                      ▼
+
+              Scan Mode Selection
+
+         ┌────────────┴────────────┐
+
+         ▼                         ▼
+
+   Common Ports              Custom Range
+
+         └────────────┬────────────┘
+
+                      ▼
+
+                 Port Queue
+
+                      ▼
+
+          Multiple Worker Threads
+
+                      ▼
+
+                scan_port()
+
+                      ▼
+
+              Open Port Collection
+
+                      ▼
+
+             Sort Scan Results
+
+          ┌───────────┼────────────┐
+
+          ▼           ▼            ▼
+
+   Display Results   TXT Report   JSON Report

@@ -1,0 +1,43 @@
+{
+    "target": "scanme.nmap.org",
+    "scan_time": 1.08,
+    "total_open_ports": 9,
+    "results": [
+        {
+            "port": 22,
+            "service": "SSH"
+        },
+        {
+            "port": 25,
+            "service": "SMTP"
+        },
+        {
+            "port": 80,
+            "service": "HTTP"
+        },
+        {
+            "port": 110,
+            "service": "POP3"
+        },
+        {
+            "port": 143,
+            "service": "IMAP"
+        },
+        {
+            "port": 465,
+            "service": "SMTPS"
+        },
+        {
+            "port": 587,
+            "service": "SMTP Submission"
+        },
+        {
+            "port": 993,
+            "service": "IMAPS"
+        },
+        {
+            "port": 995,
+            "service": "POP3S"
+        }
+    ]
+}
